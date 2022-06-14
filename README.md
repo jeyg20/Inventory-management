@@ -1,8 +1,8 @@
-##Inventory Management
+## Inventory Management
 
 This was my college python course project 
 
-###Thecnologies implemented:
+### Thecnologies implemented:
 
 - Pyhton 
 - MongoDb 
